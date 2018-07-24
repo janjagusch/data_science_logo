@@ -1,6 +1,8 @@
 # How to Build a Cool Data Science Logo
 
-If you ask me, data science is a whole lot about visualization. Therefore, when you want to brand yourself as a data scientist, you should convey this through a visually appealing logo. Today, I would like to share some insights about how to design a cool data science logo, using trigonometry and the beauty of randomness.
+If you ask me, data science is a whole lot about visualization. Therefore, when you want to brand yourself as a data scientist, you should convey this through a visually appealing logo. Today, I would like to share some insights about how to design a cool data science logo, using trigonometry and the beauty of randomness. The goal of this tutorial is to produce a logo similar to this one:
+
+![Logo](https://github.com/jbj2505/data_science_logo/blob/master/logo.png)
 
 ## Getting Started
 
